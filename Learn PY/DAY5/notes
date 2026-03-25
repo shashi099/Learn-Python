@@ -1,0 +1,11 @@
+
+
+
+⭐ LIST vs TUPLE Difference (Interview Important)
+
+| Feature | List         | Tuple      |
+| ------- | ------------ | ---------- |
+| Syntax  | []           | ()         |
+| Mutable | Yes          | No         |
+| Speed   | Slower       | Faster     |
+| Use     | Dynamic data | Fixed data |
